@@ -1,0 +1,23 @@
+1. What is phishing?
+Phishing is a type of cyber attack in which attackers impersonate trusted individuals, companies, or services to trick victims into revealing sensitive information, such as passwords, credit card numbers, or personal details. Attackers often use email, SMS, or fraudulent websites to lure targets into performing actions that compromise their security. The primary goal of phishing is to steal information, gain unauthorized access, or install malicious software on the victim’s device.
+
+2. How to identify a phishing email?
+Phishing emails often contain signs that differentiate them from legitimate messages. Common indicators include generic greetings such as “Dear Customer,” urgent or alarming language prompting immediate action, spelling and grammatical errors, suspicious or slightly altered sender addresses, and mismatched or misleading URLs. They may also include unexpected attachments, requests for sensitive information, or unusual formatting. Being vigilant about these red flags can help prevent falling victim to phishing attacks.
+
+3. What is email spoofing?
+Email spoofing is the act of forging the sender information in an email so that it appears to come from a trusted source. Attackers manipulate the “From” field or email headers to hide their true identity, making the message look legitimate. Spoofing is often used in phishing campaigns to trick recipients into clicking on malicious links or disclosing confidential information, as the email seems to originate from a known contact or organization.
+
+4. Why are phishing emails dangerous?
+Phishing emails are dangerous because they can lead to theft of sensitive information, financial loss, and unauthorized access to personal or corporate accounts. They may contain links or attachments that install malware or ransomware, potentially compromising systems and data. Even a single successful phishing attempt can cause reputational damage, breach confidential information, and result in significant financial and operational losses for individuals and organizations.
+
+5. How can you verify the sender’s authenticity?
+To verify a sender’s authenticity, check the full email address and compare it with previous legitimate messages. Inspect email headers to trace the path of the email and confirm the sending server. Authentication mechanisms such as SPF, DKIM, and DMARC can also validate whether the email is from a trusted source. Additionally, hovering over links to check actual URLs and confirming with the organization through an independent channel, such as a phone call using official contact information, can prevent falling for spoofed emails.
+
+6. What tools can analyze email headers?
+Several tools help analyze email headers to determine the true source of a message. Online analyzers like MXToolbox Header Analyzer or Google Message Header Viewer can decode the headers and show the sending IP, server path, and authentication results. Email clients like Outlook and Gmail also provide options to view the full message source. Tools such as VirusTotal, WHOIS lookup, and SPF/DKIM/DMARC checkers can further validate sender authenticity and detect potential threats.
+
+7. What actions should be taken on suspected phishing emails?
+When encountering a suspected phishing email, it is important not to click any links or open attachments. The email should be reported to the organization’s IT or security team and marked as phishing in the email client. If credentials were entered, the affected account’s password should be changed immediately, and multi-factor authentication should be enabled. Devices suspected of infection should be scanned for malware, and the email should be preserved for investigation without forwarding it unnecessarily. Quick reporting and caution help prevent compromise and limit potential damage.
+
+8. How do attackers use social engineering in phishing?
+Attackers use social engineering in phishing to manipulate human emotions and behavior in order to bypass technical security measures. They create a sense of urgency, fear, or curiosity to encourage immediate action, impersonate authority figures to gain compliance, or use attractive offers to entice victims. Personalized details from social media or prior communications are often used to increase trust and credibility in spear-phishing attacks. These tactics exploit psychological vulnerabilities, making education and awareness critical in preventing phishing attacks.

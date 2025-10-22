@@ -1,0 +1,12 @@
+Return-Path: <security@paypal-update.com>
+Received: from unknown (HELO mail.fakehost.com) (203.0.113.10)
+  by mx.google.com with ESMTP id x7si672321qkk.111.2024.10.22
+  for <user@example.com>;
+  Tue, 22 Oct 2024 12:14:37 +0530 (IST)
+From: "PayPal Support" <security@paypal-update.com>
+Reply-To: <noreply@paypal-update.com>
+To: user@example.com
+Subject: Urgent – Verify Your Account Immediately
+Message-ID: <ABC123@mail.fakehost.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
